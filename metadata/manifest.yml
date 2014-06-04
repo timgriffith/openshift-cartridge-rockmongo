@@ -30,7 +30,6 @@ Scaling:
   Min: 1
   Max: -1
 Configure-Order:
-- mongodb-2.2
 - rockmongo
 Endpoints:
 - Private-IP-Name: IP
